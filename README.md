@@ -8,7 +8,7 @@ Welcome to my Power BI project portfolio! This repository showcases several dash
 - [Kraken Koffee Infographic](./Kraken%20Koffee/) - 
 - [Austin Housing App](./Austin%20Housing)
 
-Feel free to explore each project folder to see the datasets, PBIX files, and a  **detailed** description.
+Feel free to explore each project folder to see the datasets, PBIX files, and a  <span style="font-size:18px;">**detailed description**</span>.
 
 ## 🛠 Tools Used
 

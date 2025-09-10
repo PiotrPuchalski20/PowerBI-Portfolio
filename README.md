@@ -10,10 +10,11 @@ Welcome to my Power BI project portfolio! This repository showcases several dash
 
 Feel free to explore each project folder to see the datasets, PBIX files, and a **detailed description**.
 
-## 🛠 Tools Used
+## 🛠 PowerBI Features Used
 
-- Power BI
 - DAX
-- Excel
+- Bookmarks
+- Smart Narratives
+- Key Influencers
 
 

@@ -4,9 +4,9 @@ Welcome to my Power BI project portfolio! This repository showcases several dash
 
 ## 📊 Projects
 
-- [Market Mindz Sales Report](Austin Housing)
-- [Kraken Koffee Infographic](./HR_Analytics/README.md)
-- [Austin Housing App](./CustomerRetention/README.md)
+- [Market Mindz Sales Report](./Market%20Mindz/)
+- [Kraken Koffee Infographic](./Kraken%20Koffee/)
+- [Austin Housing App](./Austin%20Housing)
 
 ## 🛠 Tools Used
 

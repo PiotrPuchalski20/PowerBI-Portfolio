@@ -4,11 +4,11 @@ Welcome to my Power BI project portfolio! This repository showcases several dash
 
 ## 📊 Projects
 
-- [Market Mindz Sales Report](./Market%20Mindz/) - my first report which is mostly focused on basic rules of good report composition.
-- [Kraken Koffee Infographic](./Kraken%20Koffee/) - 
-- [Austin Housing App](./Austin%20Housing)
+- [Market Mindz Sales Report](./Market%20Mindz/) - my first project, focused primarily on the fundamental principles of good report design and composition.
+- [Kraken Koffee Infographic](./Kraken%20Koffee/) - a more creative report that combines background design elements with more advanced DAX formulas, demonstrating best practices in formatting and visualization.
+- [Austin Housing App](./Austin%20Housing) - a fully functional real estate research app built with actual housing data from Austin, Texas. This project emphasizes interactivity, including parameters, bookmarks, and other features to ensure a user-friendly experience.
 
-Feel free to explore each project folder to see the datasets, PBIX files, and a  <span style="font-size:24px;">detailed description</span>.
+Feel free to explore each project folder to see the datasets, PBIX files, and a **detailed description**.
 
 ## 🛠 Tools Used
 

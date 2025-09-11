@@ -8,7 +8,7 @@ Welcome to my Power BI project portfolio! This repository showcases several dash
 - [Kraken Koffee Infographic](./Kraken%20Koffee/) - a more creative report that combines background design elements with more advanced DAX formulas, demonstrating best practices in formatting and visualization.
 - [Austin Housing App](./Austin%20Housing) - a fully functional real estate research app built with actual housing data from Austin, Texas. This project emphasizes interactivity, including parameters, bookmarks, and other features to ensure a user-friendly experience.
 
-Feel free to explore each project folder to see the datasets, PBIX files, and a **detailed description**.
+Feel free to explore each project folder to see the datasets, PBIX files, design elements and a **detailed description**.
 
 ## 🛠 PowerBI Features Used
 

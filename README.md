@@ -16,5 +16,5 @@ Feel free to explore each project folder to see the datasets, PBIX files, design
 - Bookmarks
 - Smart Narratives
 - Key Influencers
-
+- Page Tooltips
 

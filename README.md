@@ -1,4 +1,4 @@
-# Power BI Portfolio
+# Power BI Portfolio - Piotr Puchalski
 
 Welcome to my Power BI project portfolio! This repository showcases several dashboards and reports built with Power BI to demonstrate my skills in data visualization, data modeling, and business intelligence. Most of the datasets were sourced from a course I completed on Udemy.com.
 

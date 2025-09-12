@@ -12,5 +12,20 @@ This project is a real estate research tool designed to help users find their dr
 ## 🖼️ Screenshots and Gifs
 
 ### Navigation Panel Demo
-
 ![Navigation Panel Demo](./Screenshots_Gifs/Navigation%20Panel.gif)
+
+### Cover Page
+![Cover Page](./Screenshots_Gifs/Cover%20Page.png)
+
+### Summary Page
+![Summary Page](./Screenshots_Gifs/Summary%20Page.png)
+
+### Location Page
+![Location Page](./Screenshots_Gifs/Location%20Page.png)
+
+### Schools Page
+![Schools Page](./Screenshots_Gifs/Schools%20Page.png)
+
+### Features Page
+![Features Page](./Screenshots_Gifs/Features%20Page.png)
+

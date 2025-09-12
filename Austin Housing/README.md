@@ -15,7 +15,7 @@ This project is a real estate research tool designed to help users find their dr
 ![Navigation Panel Demo](./Screenshots_Gifs/Navigation%20Panel.gif)
 
 ### Cover Page
-![Cover Page](./Screenshots_Gifs/Cover%20Page.png)
+![Cover Page](./Screenshots_Gifs/Cover_Page.png)
 
 ### Summary Page
 ![Summary Page](./Screenshots_Gifs/Summary%20Page.png)

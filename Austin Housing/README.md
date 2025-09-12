@@ -11,4 +11,4 @@ This project is a real estate research tool designed to help users find their dr
 
 ## 🖼️ Screenshots and Gifs
 
-![Navigation Panel Demo](./Austin%20Housing/Screenshots_Gifs/Cover%20Page.png)
+

@@ -10,6 +10,10 @@ This infographic presents the performance of three newly opened stores of the Kr
 
 ## 🖼️ Screenshots and Gifs
 
+<p align="center">
+  <img src="./Screenshots_Gifs/Whole_Infographic.png" alt="Opis obrazka"/>
+</p>
+
 ### Overall Look
 ![Overall Look](./Screenshots_Gifs/Whole_Infographic.png)
 

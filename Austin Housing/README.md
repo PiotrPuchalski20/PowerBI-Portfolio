@@ -7,7 +7,7 @@ This project is a real estate research tool designed to help users find their dr
 - **Summary View** – Provides an overview of currently available properties in Austin, including key metrics such as price, living area size, and lot size.
 - **Location View** – Features an interactive map to help users explore and compare properties by area.
 - **School View** – Allows users to evaluate properties based on nearby schools and discover neighborhoods that align with their family's educational preferences.
-- **Feature View** – Uses AI tools to highlight which home features are currently driving housing prices in Austin, helping users understand market trends.
+- **Feature View** – Uses AI tools to highlight which home features are currently driving housing prices in Austin, helping users understand market trends. 
 
 ## 🖼️ Screenshots and Gifs
 

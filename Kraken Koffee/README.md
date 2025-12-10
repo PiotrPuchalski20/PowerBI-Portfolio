@@ -8,7 +8,7 @@ This infographic presents the performance of three newly opened stores of the Kr
 - Which days of the week and times generate the highest revenue, and is there a need to reevaluate store opening hours based on this data?
 - What is the sales forecast for upcoming periods?
 
-## 🖼️ Screenshots and Gifs
+## 🖼️ Screenshots
 
 ### Overall Look
 ![Overall Look](./Screenshots_Gifs/Whole_Infographic.png)

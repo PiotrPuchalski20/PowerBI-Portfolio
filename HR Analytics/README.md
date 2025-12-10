@@ -9,6 +9,12 @@
   
   👉 This enables better workforce planning, identification of potential disparities, and insights into talent distribution across the organization.
 
+- **Retention View** – Keeping Talent
+  - What is the employee retention trend from year to year?
+  - Which departments and job levels have the highest retention rates?
+  - How does retention differ across demographic groups (e.g., education level)?
+
+  👉 These insights help HR teams understand which employee groups are most stable and where retention risks may be emerging.
 
 
 

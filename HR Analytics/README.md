@@ -16,6 +16,13 @@
 
   👉 These insights help HR teams understand which employee groups are most stable and where retention risks may be emerging.
 
+- **Turnover View** – Understanding Attrition
+  - How many employees left the company, and what is the overall turnover rate?
+  - Which departments and job levels experience the highest turnover?
+  - What are the reasons for employee departures (voluntary vs. involuntary)?
+  - What is the financial impact of turnover (e.g., total salaries of departing employees)?
+
+  👉 This analysis supports retention strategies, helps identify root causes of attrition, and assists in forecasting costs associated with employee turnover.
 
 
 ## 🖼️ Screenshots and Gifs

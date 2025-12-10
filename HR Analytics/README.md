@@ -30,14 +30,14 @@
 ### Cover Page
 ![Cover Page](./Screenshots_Gifs/Cover_Page.png)
 
-### Summary Page
-![Summary Page](./Screenshots_Gifs/Summary%20Page.png)
+### Headcount Page
+![Headcount Page](./Screenshots_Gifs/Headcount.png)
 
-### Location Page
-![Location Page](./Screenshots_Gifs/Location%20Page.png)
+### Retention Page
+![Retention Page](./Screenshots_Gifs/Retention.png)
 
-### Schools Page
-![Schools Page](./Screenshots_Gifs/Schools%20Page.png)
+### Turnover Page
+![Turnover Page](./Screenshots_Gifs/Turnover.png)
 
 ### Features Page
 ![Features Page](./Screenshots_Gifs/Features%20Page.png)

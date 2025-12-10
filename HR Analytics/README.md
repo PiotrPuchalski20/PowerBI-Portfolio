@@ -39,18 +39,12 @@
 ### Turnover Page
 ![Turnover Page](./Screenshots_Gifs/Turnover.png)
 
-### Features Page
-![Features Page](./Screenshots_Gifs/Features%20Page.png)
+### Navigation Demo
+![Navigation Demo](./Screenshots_Gifs/Navigation_Demo.gif)
 
-### Navigation Panel Demo
-![Navigation Panel Demo](./Screenshots_Gifs/Navigation%20Panel.gif)
+### Page Tooltip Demo
+![Page Tooltip Demo](./Screenshots_Gifs/PageTooltip_Demo.gif)
 
 ### Filter Panel Demo
 ![Filter Panel Demo](./Screenshots_Gifs/Filter_Panel_Demo.gif)
-
-### Page Tooltip Demo
-![Page Tooltip Demo](./Screenshots_Gifs/Page_Tooltip_Demo.gif)
-
-### Page Tooltip
-![Page Tooltip](./Screenshots_Gifs/Page_Tooltip.png)
 

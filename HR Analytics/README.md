@@ -3,7 +3,10 @@
 ##This report aims to answer essential HR and business questions, including:
 - **Cover Page** – Introduces the user to the app's features and navigation.
 - **Headcount View** – Workforce Structure
-  - Test
+  - How has the number of employees changed over time?
+  - Which departments have the highest number of employees?
+  - How is the workforce distributed by location, age, gender, race/ethnicity, job level, and education?
+  👉 This enables better workforce planning, identification of potential disparities, and insights into talent distribution across the organization.
 
 
 

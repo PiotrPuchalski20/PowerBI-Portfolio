@@ -27,6 +27,15 @@
 
 ## 🖼️ Screenshots and Gifs
 
+### Navigation Demo
+![Navigation Demo](./Screenshots_Gifs/Navigation_Demo.gif)
+
+### Page Tooltip Demo
+![Page Tooltip Demo](./Screenshots_Gifs/PageTooltip_Demo.gif)
+
+### Filter Panel Demo
+![Filter Panel Demo](./Screenshots_Gifs/Filter_Panel_Demo.gif)
+
 ### Cover Page
 ![Cover Page](./Screenshots_Gifs/Cover_Page.png)
 
@@ -39,12 +48,4 @@
 ### Turnover Page
 ![Turnover Page](./Screenshots_Gifs/Turnover.png)
 
-### Navigation Demo
-![Navigation Demo](./Screenshots_Gifs/Navigation_Demo.gif)
-
-### Page Tooltip Demo
-![Page Tooltip Demo](./Screenshots_Gifs/PageTooltip_Demo.gif)
-
-### Filter Panel Demo
-![Filter Panel Demo](./Screenshots_Gifs/Filter_Panel_Demo.gif)
 
